@@ -1,0 +1,25 @@
+{
+  "name": "hiding_ninja",
+  "version": "0.0.1",
+  "description": "hiding ninjas",
+  "main": "none.js",
+  "scripts": {
+    "test": "echo none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timoweave/hiding_ninja"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timoweave/hiding_ninja/issues"
+  },
+  "homepage": "https://github.com/timoweave/hiding_ninja",
+  "devDependencies": {
+    "browser-sync": "^2.8.1",
+    "bs-html-injector": "^2.0.4",
+    "gulp": "^3.9.0",
+    "gulp-install": "^0.4.0"
+  }
+}

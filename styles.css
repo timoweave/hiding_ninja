@@ -1,0 +1,24 @@
+* {
+        font-family: sans-serif;
+        box-sizing: border-box;
+}
+
+.ninja {
+    width: 24%;
+    height: auto;
+    border: 0.5em solid lightgrey;
+    margin: 0.5em;
+    padding: 0.5em;
+    display: inline-block;
+}
+
+.ninja:hover {
+    border-color: #ef935d;
+}
+
+body button {
+    margin:0.5em 0.5em;
+    font-size:1.5em;
+    width: 22.5%;
+    padding:0.5em 2em;
+}
