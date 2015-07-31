@@ -8,6 +8,7 @@ function init_ninjas(elem) {
             .addClass('ninja')
             .click(function() {
                 console.log($(this).attr('id'));
+                // $(this).next('p').html('hiding ' + $(this).attr('id')).fadeOut(1000);
                 $(this).hide();
             });
         elem.append(ninja);
